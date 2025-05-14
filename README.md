@@ -1,9 +1,5 @@
 # 📘 Guía para Consultas CQL (Requisito 3 – INF325)
 
-## 📌 Objetivo
-
-Este documento sirve como guía para ejecutar las consultas CQL específicas, definidas como parte del Requisito 3 del laboratorio INF325. El propósito es validar que el modelo de datos en Cassandra, diseñado en el Requisito 2 y poblado con `postulaciones.csv`, soporta eficientemente estas consultas del negocio.
-
 ---
 
 ## ⚙️ Prerrequisitos
